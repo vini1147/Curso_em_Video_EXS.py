@@ -1,0 +1,5 @@
+algo = input('Digite um numero inteiro')
+print(type(algo))
+print('Ele esta em minusculo?',algo.islower())
+print('Está em maiusculo?',algo.isupper())
+print(algo.isascii())
